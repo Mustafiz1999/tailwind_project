@@ -2,6 +2,6 @@
 
 Creating a portfolio using HTML and TailwindCSS
 
-Name: Tanzil Ahmed <br>
+Name: Mutafizur Rahman Tonmoy <br>
 Section: PC-C <br>
-Student Id: 213-15-4325
+Student Id: 213-15-4365
